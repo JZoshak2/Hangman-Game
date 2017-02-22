@@ -1,0 +1,16 @@
+h1 {
+	font-family: 'GFS Neohellenic', sans-serif;
+	text-align: center;
+}
+
+h2, h3 {
+	font-family: 'GFS Neohellenic', sans-serif;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+}
+
+#half-width {
+	width: 50%;
+}
