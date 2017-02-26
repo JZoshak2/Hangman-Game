@@ -1,16 +1,35 @@
+
+
 h1 {
-	font-family: 'GFS Neohellenic', sans-serif;
+	font-family:'GFS Neohellenic', serif;
 	text-align: center;
 }
 
 h2, h3 {
-	font-family: 'GFS Neohellenic', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 p {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Lato', sans-serif;
+	width: 90%;
 }
 
-#half-width {
+.main_content {
+	float: left;
 	width: 50%;
+	border: 1px solid grey;
+	padding: 20px;
+}
+
+#win_image {
+	float: left;
+	margin-left: 40px;
+	position: relative;
+	top: 10px;
+}
+
+.explanation {
+	clear: both;
+	position: relative;
+	top: 50px;
 }
